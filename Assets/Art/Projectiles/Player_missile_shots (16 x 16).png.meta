@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: ea9babffa1fb3864e9a328b457f7432d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6952340918182228389
+    second: Player_missile_shots (16 x 16)_0
+  - first:
+      213: -3319754961487632845
+    second: Player_missile_shots (16 x 16)_1
+  - first:
+      213: 7710181546008480335
+    second: Player_missile_shots (16 x 16)_2
+  - first:
+      213: 8603042159346933751
+    second: Player_missile_shots (16 x 16)_3
+  - first:
+      213: -8833673028671888124
+    second: Player_missile_shots (16 x 16)_4
+  - first:
+      213: 2903793725919953423
+    second: Player_missile_shots (16 x 16)_5
+  - first:
+      213: -4228354769773294364
+    second: Player_missile_shots (16 x 16)_6
+  - first:
+      213: 1509195737339157949
+    second: Player_missile_shots (16 x 16)_7
+  - first:
+      213: -8422842639276637165
+    second: Player_missile_shots (16 x 16)_8
+  - first:
+      213: -6413250847567662106
+    second: Player_missile_shots (16 x 16)_9
+  - first:
+      213: -2740691502387667048
+    second: Player_missile_shots (16 x 16)_10
+  - first:
+      213: -1159099293651124171
+    second: Player_missile_shots (16 x 16)_11
+  - first:
+      213: 3920879044897473538
+    second: Player_missile_shots (16 x 16)_12
+  - first:
+      213: 1299350984755662514
+    second: Player_missile_shots (16 x 16)_13
+  - first:
+      213: 4696123886017398411
+    second: Player_missile_shots (16 x 16)_14
+  - first:
+      213: -3964539448279196649
+    second: Player_missile_shots (16 x 16)_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_missile_shots (16 x 16)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ec55e15c2548f90800000000000000
+      internalID: -6952340918182228389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_missile_shots (16 x 16)_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336603b837cdde1d0800000000000000
+      internalID: -3319754961487632845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a22a959ffc6ba5c429fb640fd558985a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Player_missile_shots (16 x 16)_0: -6952340918182228389
+      Player_missile_shots (16 x 16)_1: -3319754961487632845
+      Player_missile_shots (16 x 16)_10: -2740691502387667048
+      Player_missile_shots (16 x 16)_11: -1159099293651124171
+      Player_missile_shots (16 x 16)_12: 3920879044897473538
+      Player_missile_shots (16 x 16)_13: 1299350984755662514
+      Player_missile_shots (16 x 16)_14: 4696123886017398411
+      Player_missile_shots (16 x 16)_15: -3964539448279196649
+      Player_missile_shots (16 x 16)_2: 7710181546008480335
+      Player_missile_shots (16 x 16)_3: 8603042159346933751
+      Player_missile_shots (16 x 16)_4: -8833673028671888124
+      Player_missile_shots (16 x 16)_5: 2903793725919953423
+      Player_missile_shots (16 x 16)_6: -4228354769773294364
+      Player_missile_shots (16 x 16)_7: 1509195737339157949
+      Player_missile_shots (16 x 16)_8: -8422842639276637165
+      Player_missile_shots (16 x 16)_9: -6413250847567662106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

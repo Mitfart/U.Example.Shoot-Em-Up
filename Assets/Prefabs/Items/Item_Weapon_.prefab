@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &950213343133350979
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4631531676243560346, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 143916995935185967, guid: 4470054d26c71f743ba2c97b191e341b, type: 3}
+    - target: {fileID: 5501431291164686117, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5501431291164686117, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5501431291164686117, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5501431291164686117, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5501431291164686117, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5501431291164686117, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5501431291164686117, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5501431291164686117, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5501431291164686117, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5501431291164686117, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535291640129533728, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+      propertyPath: m_Name
+      value: Item_Weapon_
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6535291640129533728, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -1971303178237788835}
+  m_SourcePrefab: {fileID: 100100000, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+--- !u!114 &629768987581945266 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 401582942325680625, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+  m_PrefabInstance: {fileID: 950213343133350979}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6313434383878228835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08f33c2d30ab472aa1e6c4609dcc6b0a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &6313434383878228835 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6535291640129533728, guid: c2ee28b80495e0b4faca721d0eff6aa6, type: 3}
+  m_PrefabInstance: {fileID: 950213343133350979}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-1971303178237788835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6313434383878228835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 870b05dfaf064170b553fbb9f6f0da7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item: {fileID: 629768987581945266}
+  weapon: {fileID: 0}
+  duration: 10
